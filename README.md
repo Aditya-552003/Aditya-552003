@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://github.com/Aditya-552003"><img src="https://img.shields.io/badge/GitHub-Aditya--552003-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://emosense-ai-frontend-ashen.vercel.app"><img src="https://img.shields.io/badge/Live_Project-EmoSens-0B84F3?style=for-the-badge&logo=vercel&logoColor=white" alt="EmoSens live" /></a>
+<a href="https://emosense-1.vercel.app"><img src="https://img.shields.io/badge/Live_Project-EmoSens-0B84F3?style=for-the-badge&logo=vercel&logoColor=white" alt="EmoSens live" /></a>
 <img src="https://komarev.com/ghpvc/?username=Aditya-552003&style=for-the-badge&color=0B84F3&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
@@ -47,10 +47,10 @@ class Aditya:
         <img src="https://img.shields.io/badge/XGBoost-0B84F3?style=flat-square" />
         <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square" />
       </p>
-      <a href="https://emosense-ai-frontend-ashen.vercel.app">🔗 Live Demo</a> &nbsp;•&nbsp; <a href="https://github.com/Aditya-552003/emosense-ai">Source</a>
+      <a href="https://emosense-1.vercel.app">🔗 Live Demo</a> &nbsp;•&nbsp; <a href="https://github.com/Aditya-552003/emosense-ai">Source</a>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/Aditya-552003/chat-with-code">Chat with Code</a></h3>
+      <h3>💬 <a href="https://chat-with-code-1.vercel.app/">Chat with Code</a></h3>
       <p>Ask questions about any public GitHub repo using <b>retrieval-augmented generation</b>, semantic code chunking and source-linked answers.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -58,18 +58,19 @@ class Aditya:
         <img src="https://img.shields.io/badge/LlamaIndex-123B70?style=flat-square" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       </p>
-      <a href="https://github.com/Aditya-552003/chat-with-code">Source</a>
+      <a href="https://chat-with-code-1.vercel.app/">🔗 Live Demo</a> &nbsp;•&nbsp; <a href="https://github.com/Aditya-552003/chat-with-code">Source</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 Sortlist</h3>
+      <h3>🎯 <a href="https://sortlist-1.vercel.app/">Sortlist</a></h3>
       <p>Recruitment intelligence concept using <b>semantic resume matching</b> and developer activity signals to help shortlist candidates. <i>(Private repo)</i></p>
       <p>
         <img src="https://img.shields.io/badge/Sentence_Transformers-123B70?style=flat-square" />
         <img src="https://img.shields.io/badge/NLP-0B84F3?style=flat-square" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       </p>
+      <a href="https://sortlist-1.vercel.app/">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/Aditya-552003/MyPortfolio">AI Studio Portfolio</a></h3>
@@ -92,10 +93,14 @@ class Aditya:
 
 <div align="center">
 
-<a href="https://github.com/Aditya-552003/hybrid-emotion-fastapi"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-552003&repo=hybrid-emotion-fastapi&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" /></a>
-<a href="https://github.com/Aditya-552003/breast-cancer-detection-fastapi"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-552003&repo=breast-cancer-detection-fastapi&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" /></a>
-<a href="https://github.com/Aditya-552003/Food-Delivery-Status-Prediction"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-552003&repo=Food-Delivery-Status-Prediction&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" /></a>
-<a href="https://github.com/Aditya-552003/Voice-Assistant"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-552003&repo=Voice-Assistant&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" /></a>
+| Repository | Focus | Language |
+| :-- | :-- | :-- |
+| [**hybrid-emotion-fastapi**](https://github.com/Aditya-552003/hybrid-emotion-fastapi) | Hybrid emotion detection served through FastAPI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**breast-cancer-detection-fastapi**](https://github.com/Aditya-552003/breast-cancer-detection-fastapi) | Breast cancer detection model behind a FastAPI service | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Food-Delivery-Status-Prediction**](https://github.com/Aditya-552003/Food-Delivery-Status-Prediction) | Predict whether a delivery will be late or fast | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [**MNIST-Digits-Classification**](https://github.com/Aditya-552003/MNIST-Digits-Classification) | Handwritten digit classification | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [**Predict_Pollution_Severity**](https://github.com/Aditya-552003/Predict_Pollution_Severity) | Pollution severity prediction | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [**Voice-Assistant**](https://github.com/Aditya-552003/Voice-Assistant) | Voice-driven assistant | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
@@ -124,9 +129,12 @@ class Aditya:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya-552003&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF&rank_icon=github" alt="GitHub stats" />
+<img src="https://img.shields.io/github/followers/Aditya-552003?style=for-the-badge&logo=github&color=0B84F3&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Aditya-552003/hybrid-emotion-fastapi?style=for-the-badge&logo=github&color=123B70&label=Top%20Repo%20Stars" alt="Stars" />
+
+<br/><br/>
+
 <img height="170" src="https://streak-stats.demolab.com?user=Aditya-552003&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-552003&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
 
 </div>
 
@@ -138,7 +146,7 @@ class Aditya:
 <div align="center">
 
 <a href="https://github.com/Aditya-552003"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://emosense-ai-frontend-ashen.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-EmoSens-0B84F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
+<a href="https://emosense-1.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-EmoSens-0B84F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
 <!-- Add your own links below and uncomment:
 <a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
