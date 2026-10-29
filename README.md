@@ -95,7 +95,6 @@ class Aditya:
 
 | Repository | Focus | Language |
 | :-- | :-- | :-- |
-| [**hybrid-emotion-fastapi**](https://github.com/Aditya-552003/hybrid-emotion-fastapi) | Hybrid emotion detection served through FastAPI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**breast-cancer-detection-fastapi**](https://github.com/Aditya-552003/breast-cancer-detection-fastapi) | Breast cancer detection model behind a FastAPI service | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**Food-Delivery-Status-Prediction**](https://github.com/Aditya-552003/Food-Delivery-Status-Prediction) | Predict whether a delivery will be late or fast | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | [**MNIST-Digits-Classification**](https://github.com/Aditya-552003/MNIST-Digits-Classification) | Handwritten digit classification | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
